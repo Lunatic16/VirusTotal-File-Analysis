@@ -14,7 +14,7 @@ This file provides context for AI-assisted development of `vt_analysis.sh`. It d
 |------|---------|
 | `vt_analysis.sh` | Main script — all logic lives here |
 | `README.md` | User-facing documentation |
-| `CLAUDE.md` | This file — AI development context |
+| `CLAUDE.md or GEMINI.md` | This file — AI development context |
 | `vt_scan_log.md` | Auto-generated markdown scan log (created at runtime) |
 | `~/.vt_cache.json` | Auto-generated local result cache (created at runtime) |
 
